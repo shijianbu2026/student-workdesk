@@ -3,7 +3,7 @@ window.WORKDESK_SITES = [
   {
     id: "erke",
     name: "素拓平台",
-    url: "https://erke.gdut.edu.cn/public/index.php/cgi/login"
+    url: "https://erke.gdut.edu.cn/cgi/login"
   },
   {
     id: "mail",
